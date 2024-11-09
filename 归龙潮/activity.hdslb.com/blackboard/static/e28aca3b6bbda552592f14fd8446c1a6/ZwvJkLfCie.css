@@ -1,0 +1,50 @@
+._positionBoxRoot_v6ypb_1 {
+  position: absolute;
+}
+._positionBoxRoot_v6ypb_1 :not(.allow-image-drag) img {
+  -webkit-user-drag: none;
+}
+
+._tips_v6ypb_8 {
+  position: absolute;
+  z-index: 1;
+  width: 37.5px;
+  height: 18px;
+}
+._tips_v6ypb_8 ._scaleBox_v6ypb_14 {
+  transform: scale(0.75);
+  transform-origin: top left;
+}
+._tips_v6ypb_8 ._gap_v6ypb_18 {
+  flex: none;
+  width: 8px;
+}
+._tips_v6ypb_8 ._item_v6ypb_22 {
+  display: flex;
+  width: 50px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fff;
+}
+._tips_v6ypb_8 ._item_v6ypb_22 ._label_v6ypb_28 {
+  flex: none;
+  font-size: 12px;
+  line-height: 12px;
+}
+._tips_v6ypb_8 ._item_v6ypb_22 ._numberBox_v6ypb_33 {
+  flex: 1;
+  font-size: 12px;
+  line-height: 12px;
+}
+._tips_v6ypb_8 ._item_v6ypb_22 ._numberBox_v6ypb_33 input {
+  padding: 0;
+  margin: 0;
+  height: 12px;
+  line-height: 12px;
+  width: 100%;
+  border: solid 0 transparent;
+  background: transparent;
+  outline: none;
+  text-shadow: 1px 1px 0 #fff;
+  font-weight: normal;
+  font-size: 12px;
+}

@@ -1,0 +1,29 @@
+._layoutContainerRoot_1wi3y_1 {
+  position: relative;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+._layoutContainerRoot_1wi3y_1 ._layoutBackground_1wi3y_6 {
+  position: absolute;
+  pointer-events: none;
+  border-radius: 0px;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 0;
+}
+._layoutContainerRoot_1wi3y_1::-webkit-scrollbar {
+  display: none;
+}
+._layoutContainerRoot_1wi3y_1 ._layoutContainer_1wi3y_1 {
+  z-index: 0;
+  position: relative;
+  overflow: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  box-sizing: border-box;
+}
+._layoutContainerRoot_1wi3y_1 ._layoutContainer_1wi3y_1::-webkit-scrollbar {
+  display: none;
+}
