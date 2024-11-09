@@ -1,3 +1,4 @@
+//  自执行函数，目的是根据浏览器窗口的宽度动态调整页面中某些元素的高度
 (function(){
   var scale = 0;
   var testNum = /^\d+(px)?$/i;
