@@ -1,3 +1,4 @@
+// 处理 window.__initialState 对象的访问和扩展功能，同时给出一个警告，并动态生成 componentConfigMap，将其合并到 __initialState 中
 let __initialState = window.__initialState
 var __isInitStateExecute = false
 
